@@ -1,4 +1,4 @@
 require 'pry'
 class Dog < ActiveRecord::Base
-    binding.pry
+    # binding.pry
 end
